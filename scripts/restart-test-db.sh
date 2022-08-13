@@ -1,0 +1,1 @@
+docker stop nestjs-auth-test && docker rm nestjs-auth-test -vf && docker compose up -d
